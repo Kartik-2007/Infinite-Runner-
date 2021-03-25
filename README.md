@@ -1,1 +1,1 @@
-# Infinite-Runner-
+C-38 infinite runner game by Kartik
